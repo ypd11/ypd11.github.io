@@ -12,5 +12,6 @@ From this small page, you can download some of my programs for the Windows platf
 - [Remojs](https://download1594.mediafire.com/ev7w27byst0g/jszot1robf326sh/Remojs.exe) - Remover of the start.js shortcut virus
 - [Xnoter](https://download1081.mediafire.com/2gx60vtbyzpg/gld0uhifl1bjig7/xnoter-2-0-win32.rar) - The classic note manager
 
-
-## © 2022 Yaroy P. Díaz
+### Feedback
+Please send an email to [exeinn.info@gmail.com](mailto:exeinn.info@gmail.com) if you would like to share your opinion whether it's positive or negative. It will help me improve. Thank you.
+### © 2022 Yaroy P. Díaz
