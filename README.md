@@ -1,7 +1,7 @@
 # Exe Innovate Projects
 
 
-From this small page, you can get the download links for the available programs for the Windows platform. I hope you find them useful at a certain moment.
+From this small page, you can download some of my programs for the Windows platform.
 
 **List of programs:**
 
