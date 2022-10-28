@@ -3,7 +3,7 @@
 
 From this small page, you can download some of my programs for the Windows platform. I hope they're useful.
 
-## List of programs
+### List of programs
 
 - [Easy QR](https://download940.mediafire.com/bmzzz71d0mwg/5lsyupef376xmb6/EQR13.exe) - Barcode maker and reader
 - [Text Expert](https://download1528.mediafire.com/d2pbrcsjjhzg/h191sb0n47kep0n/text-expert-1-4-0.rar) - Alternative to Windows Notepad with more features
@@ -13,4 +13,4 @@ From this small page, you can download some of my programs for the Windows platf
 - [Xnoter](https://download1081.mediafire.com/2gx60vtbyzpg/gld0uhifl1bjig7/xnoter-2-0-win32.rar) - The classic note manager
 
 
-# © 2022 Yaroy P. Díaz
+## © 2022 Yaroy P. Díaz
