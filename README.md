@@ -5,12 +5,12 @@ From this small page, you can download some of my programs for the Windows platf
 
 ### List of programs
 
-- [Easy QR](https://download940.mediafire.com/bmzzz71d0mwg/5lsyupef376xmb6/EQR13.exe) - Barcode maker and reader
-- [Text Expert](https://download1528.mediafire.com/d2pbrcsjjhzg/h191sb0n47kep0n/text-expert-1-4-0.rar) - Alternative to Windows Notepad with more features
-- [QuickGo](https://download2268.mediafire.com/ra3bombnz5dg/s63gkkyqvj0n7xm/QuickGo+Portable+v1.00.rar) - Shortcut manager that keeps your desktop clean
+- [Easy QR](https://www.softpedia.com/get/Multimedia/Graphic/Graphic-Others/Easy-QR.shtml) - Barcode maker and reader with data encryption
+- [Text Expert](https://www.softpedia.com/get/Office-tools/Text-editors/Text-Expert.shtml) - Alternative to Windows Notepad with more features
+- [QuickGo](https://www.softpedia.com/get/File-managers/QuickGo.shtml) - Shortcut manager that keeps your desktop clean
 - [Tiny DLNA Server](https://www.mediafire.com/folder/0ve3gtg0fa5xa/update) - DLNA/UPnP server that shares your computer's media libraries
-- [Remojs](https://download1594.mediafire.com/ev7w27byst0g/jszot1robf326sh/Remojs.exe) - Remover of the start.js shortcut virus
-- [Xnoter](https://download1081.mediafire.com/2gx60vtbyzpg/gld0uhifl1bjig7/xnoter-2-0-win32.rar) - The classic note manager
+- [Remojs](https://www.softpedia.com/get/Antivirus/Removal-Tools/Remojs.shtml) - Remover of the start.js shortcut virus
+- [Xnoter](https://www.softpedia.com/get/Office-tools/Text-editors/Xnoter.shtml) - The classic note manager
 
 ### Feedback
 Please send an email to [exeinn.info@gmail.com](mailto:exeinn.info@gmail.com) if you would like to share your opinion whether it's positive or negative. It will help me improve. Thank you.
